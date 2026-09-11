@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">LockPhone</string>
+  <string name="device_admin_description">Allows LockPhone to immediately lock this device after a double tap.</string>
+</resources>
